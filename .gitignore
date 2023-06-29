@@ -1,0 +1,8 @@
+/cosmetics_shop/node_modules
+/cosmetics_shop/dist
+/cosmetics_shop/.idea
+/cosmetics-back/node_modules
+/cosmetics-back/.idea
+/cosmetics-back/test
+/cosmetics-back/yarn.lock
+/.idea
